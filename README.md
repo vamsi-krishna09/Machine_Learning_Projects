@@ -67,7 +67,7 @@ True operational turnaround requires shifting capital away from volume (buying m
 
 **Tools:** Python, Pandas, Seaborn
 
-**Certificate:[Participation certificate](./)
+**Certificate:(https://github.com/vamsi-krishna09/Machine_Learning_Projects/blob/main/Certificate/Data-Analytics-Hackathon-GRD-2026-H74AX0YT.pdf)
 
 ---
 

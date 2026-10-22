@@ -77,5 +77,5 @@ True operational turnaround requires shifting capital away from volume (buying m
 3. Install any missing libraries when Colab asks: `pip install xgboost`.
 
 ## About me
-[Your name], B.Tech Chemical Engineering, IIT Madras
-[LinkedIn link] | [email]
+C.Vamsi Krishna, B.Tech Chemical Engineering, IIT Madras
+ch25b028@smail.iitm.ac.in
